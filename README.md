@@ -185,6 +185,7 @@ gap: 2rem;
 - Navigate to Docs
 - Get API_KEY and Base ID and Table Name
 - add all to .env
+- Airtable token: patbhaeALyLVwalIX.f3fe464445b62d706c7cadd7b8d251fe27a65c5edf4e34976cd30dd234e3d4b6
 
 ```js
 AIRTABLE_API_KEY=
